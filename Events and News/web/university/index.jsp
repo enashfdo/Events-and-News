@@ -1,4 +1,7 @@
-
+<%@page import="java.sql.ResultSet"%>
+<%@page import="java.sql.Statement"%>
+<%@page import="java.sql.Connection"%>
+<%@page import="servlet.DBCon"%>
 <!DOCTYPE html>
 <html lang="en">
 
